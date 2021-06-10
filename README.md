@@ -1,1 +1,1 @@
-# Calcular-area-abstracta-imp-sup
+# Calcular el área de una figura con una clase abstracta implementada por una superclase.
